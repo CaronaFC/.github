@@ -24,6 +24,6 @@ Funcionalidades principais:
 
 | Repositório | Descrição | Disponível |
 |------------|-----------|------------|
-| [`caronafc-mobile`](https://github.com/CaronaFC/caronafc-mobile) | 📱 Aplicativo mobile (React Native) | ❌ |
+| [`caronafc-mobile`](https://github.com/CaronaFC/caronafc-mobile) | 📱 Aplicativo mobile (React Native) | ✅ |
 | [`caronafc-server`](https://github.com/CaronaFC/caronafc-server) | 🌐 Backend em Java / SpringBoot | ❌ |
 | [`caronafc-web`](https://github.com/CaronaFC/caronafc-web) | 💻 Painel administrativo e landing page | ✅ |
